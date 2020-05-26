@@ -18,6 +18,8 @@ pull
 
 Type git to return all the commands available
 
-to save when faced with commit write
+to save when faced with committing without -m message
 Esc  :wq
+
+Note we must explicitly save before committing, autosave is not enough
 """
